@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Aman4138/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
