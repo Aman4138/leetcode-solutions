@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman4138/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman4138/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman4138/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aman4138/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aman4138/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aman4138/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman4138/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aman4138/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
@@ -119,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman4138/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
