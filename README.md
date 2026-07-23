@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aman4138/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Aman4138/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Aman4138/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0136-single-number) |
 | [1260-shift-2d-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman4138/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aman4138/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aman4138/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
