@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Aman4138/leetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman4138/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman4138/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aman4138/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aman4138/leetcode-solutions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman4138/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aman4138/leetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman4138/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman4138/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aman4138/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
