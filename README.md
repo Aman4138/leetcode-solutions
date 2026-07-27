@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Aman4138/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Aman4138/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Aman4138/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman4138/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman4138/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Aman4138/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Aman4138/leetcode-solutions/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman4138/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Aman4138/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman4138/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
