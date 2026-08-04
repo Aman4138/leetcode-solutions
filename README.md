@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -190,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aman4138/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
