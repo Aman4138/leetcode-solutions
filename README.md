@@ -211,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Aman4138/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aman4138/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Aman4138/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
