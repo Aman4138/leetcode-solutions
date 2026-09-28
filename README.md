@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Aman4138/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/Aman4138/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Aman4138/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aman4138/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0202-happy-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Aman4138/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/Aman4138/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
