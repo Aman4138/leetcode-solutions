@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aman4138/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Aman4138/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman4138/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Aman4138/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aman4138/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Aman4138/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/Aman4138/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman4138/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Aman4138/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aman4138/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Aman4138/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Aman4138/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Aman4138/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aman4138/leetcode-solutions/tree/master/0189-rotate-array) |
