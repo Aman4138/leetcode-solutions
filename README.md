@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman4138/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Aman4138/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -249,15 +250,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Aman4138/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aman4138/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
